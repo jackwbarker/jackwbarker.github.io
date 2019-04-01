@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Changing Title / Site Title"
+title                    : "Jack Barker Research"
 title_separator          : "-"
 name                     : &name "Jack Barker"
 description              : &description "PhD Student at the University of Durham"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jackwbarker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/jackwbarker"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jack W. Barker"
-  avatar           : "https://drive.google.com/file/d/1tLKR3SPeWDVQ9BvOfN3rt7nlNdXerUIy/view?usp=sharing"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "/images/profiles/17810/rsz_screenshot_2019-01-23_at_011854.jpg"
+  bio              : "PhD Student at the University of Durham, UK"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
