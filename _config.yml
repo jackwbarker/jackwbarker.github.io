@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jack W. Barker"
-  avatar           : "/images/profiles/17810/rsz_screenshot_2019-01-23_at_011854.jpg"
+  avatar           : "https://www.dur.ac.uk/images/profiles/17810/rsz_screenshot_2019-01-23_at_011854.jpg"
   bio              : "PhD Student at the University of Durham, UK"
   location         : "Location"
   employer         :
