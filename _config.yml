@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jack W. Barker"
   avatar           : "https://www.dur.ac.uk/images/profiles/17810/rsz_screenshot_2019-01-23_at_011854.jpg"
-  bio              : "PhD Student at the University of Durham, UK"
-  location         : "Location"
+  bio              : "PhD Student at Durham University, UK"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jack_Barker10"
   uri              :
