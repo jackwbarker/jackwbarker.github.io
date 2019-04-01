@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Changing Title / Site Title"
 title_separator          : "-"
 name                     : &name "Jack Barker"
 description              : &description "PhD Student at the University of Durham"
