@@ -16,13 +16,3 @@ I studied at Royal Holloway, University of London where I achieved a First Class
 
 I am primarily researching autonomous methods of the detection of turbine blade damage of offshore windturbines. This work is funded primarily by <a href = 'https://orsted.com/en'>Ørsted</a>, and  <a href = 'https://epsrc.ukri.org'>EPSRC</a>
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-64765955-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-64765955-3');
-</script>
